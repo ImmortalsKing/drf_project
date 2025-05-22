@@ -44,7 +44,7 @@ A complete Blog REST API built with Django REST Framework featuring user authent
 ### 📱 Rest Framework UI
 ![Rest Framework UI](screenshots/3.png)
 
-### 📰 JWT Authentication
+### 🔐 JWT Authentication
 ![JWT Authentication](screenshots/4.png)
 
 ---
