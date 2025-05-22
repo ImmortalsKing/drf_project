@@ -35,15 +35,17 @@ A complete Blog REST API built with Django REST Framework featuring user authent
 
 ## 🛠️ Screenshots
 
-<div align="center">
-🗂️ Blog Posts List
-<img src="screenshots/1.png" width="600" />
-📄 Post Details
-<img src="screenshots/2.png" width="600" />
-💬 Comments on a Post
-<img src="screenshots/3.png" width="600" />
-🔐 JWT Authentication
-<img src="screenshots/4.png" width="600" /> </div>
+### 🗂️ Swagger
+![Swagger](screenshots/1.png)
+
+### 📄 Some Changes By Swagger
+![Swagger](screenshots/2.png)
+
+### 📱 Rest Framework UI
+![Rest Framework UI](screenshots/3.png)
+
+### 📰 JWT Authentication
+![JWT Authentication](screenshots/4.png)
 
 ---
 
